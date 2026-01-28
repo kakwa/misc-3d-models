@@ -1,6 +1,6 @@
 # Miscellaneous 3D Models
 
-Various 3D models from my projects built using Freecad.
+Various 3D models from my projects built using FreeCAD.
 
 # License
 
